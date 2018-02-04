@@ -1,0 +1,16 @@
+{
+"companyName": "Enox Software",
+"productName": "2017.3.0f3_WebGLFileUploader",
+"dataUrl": "Default WebGL-2017.3-latest WASM.data.unityweb",
+"wasmCodeUrl": "Default WebGL-2017.3-latest WASM.wasm.code.unityweb",
+"wasmFrameworkUrl": "Default WebGL-2017.3-latest WASM.wasm.framework.unityweb",
+"asmCodeUrl": "Default WebGL-2017.3-latest WASM.asm.code.unityweb",
+"asmMemoryUrl": "Default WebGL-2017.3-latest WASM.asm.memory.unityweb",
+"asmFrameworkUrl": "Default WebGL-2017.3-latest WASM.asm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
