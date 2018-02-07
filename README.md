@@ -1,7 +1,7 @@
 WebGL File Uploader
 ====================
 
-This asset adds file upload capability to the Unity WebGL platform.
+This asset adds file upload function to the Unity WebGL platform.
 
 Overview
 -----
